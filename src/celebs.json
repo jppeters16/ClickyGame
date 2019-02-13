@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bill Gates",
+    "image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43be22.png",
+    "guessed":"false"
+  },
+  {
+    "id": 2,
+    "name": "Elon Musk",
+    "image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43be26.png",
+    "guessed": "false"
+  },
+  {
+    "id": 3,
+    "name": "Jeff Bezos",
+    "image": "http://www.stickpng.com/assets/thumbs/584dfc736a5ae41a83ddee16.png",
+    "guessed": "false"
+  },
+  {
+    "id": 4,
+    "name": "Steve Jobs",
+    "image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43be30.png",
+    "guessed": "false"
+  },
+  {
+    "id": 5,
+    "name": "Mark Zuckerberg",
+    "image": "http://www.stickpng.com/assets/thumbs/5ae309f226c97415d321355e.png",
+    "guessed": "false"
+  },
+  {
+    "id": 6,
+    "name": "Warren Buffett",
+    "image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43be34.png",
+    "guessed": "false"
+  },
+  {
+    "id": 7,
+    "name": "Bear Grylls",
+    "image": "http://www.stickpng.com/assets/thumbs/5874e17b42e4d62873855a01.png",
+    "guessed": "false"
+  },
+  {
+    "id": 8,
+    "name": "Jimmy Fallon",
+    "image": "http://www.stickpng.com/assets/thumbs/5899fc9f5aa6293a4aac4889.png",
+    "guessed": "false"
+  },
+  {
+    "id": 9,
+    "name": "Stephen King",
+    "image": "http://www.stickpng.com/assets/thumbs/5c19177b44f5fd02b8cd3b8e.png",
+    "guessed": "false"
+  },
+  {
+    "id": 10,
+    "name": "Simon Cowell",
+    "image": "http://www.stickpng.com/assets/thumbs/59bf78fe7a216d0b052f129b.png",
+    "guessed": "false"
+  },
+  {
+    "id": 11,
+    "name": "Dalai Lama",
+    "image": "http://www.stickpng.com/assets/thumbs/5a7885a35e772d1dd5e39ae7.png",
+    "guessed": "false"
+  },
+  {
+    "id": 12,
+    "name": "Alfred Hitchcock",
+    "image": "http://www.stickpng.com/assets/thumbs/5a914a84b15d5c051b369099.png",
+    "guessed": "false"
+  }
+]

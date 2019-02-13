@@ -1,0 +1,81 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 200px;
+  margin: 1rem;
+  position: relative;
+  width: 200px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: center;
+  cursor: pointer;
+}
+
+.card:hover {
+  top: -10px;
+}
+
+.card > .img-container:hover {
+  background: #F7BD00;
+}
+
+.card > .img-container {
+  height: 85%;
+  overflow: hidden;
+  text-align: center;
+  background: #F7C659;
+  background-size: 400% 400%;
+  -webkit-animation: shimmer 30s ease infinite;
+  -moz-animation: shimmer 30s ease infinite;
+  animation: shimmer 30s ease infinite;
+}
+
+@-webkit-keyframes shimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes shimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes shimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.card > .img-container > img {
+  width: 85%;
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}
